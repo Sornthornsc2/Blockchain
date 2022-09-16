@@ -1,0 +1,655 @@
+process 2: Starting the Blockchain server input thread using 4932
+process 1: Starting the Unverified Block Server input thread using 4821
+process 0: Starting the Unverified Block Server input thread using 4820
+process 2: Starting the Unverified Block Server input thread using 4822
+process 1: Starting Key Server input thread using 4711
+process 0: Starting Key Server input thread using 4710
+process 2: Starting Key Server input thread using 4712
+process 2: Send PublicKey to 4710
+process 2: Send PublicKey to 4711
+process 2: Send PublicKey to 4712
+process 2: Sending UVBs to process 4820...
+process 0: Got connection to UVB Server.
+process 0: Got key: Sun RSA public key, 1024 bits
+  params: null
+  modulus: 135355343355842443378348976764566578619862484830893680258015749375432058953776588315608211566455767495227791876765516598387538393090172460520676953060137139850930918875047661575061189974181279810116546571009572719885538382624384493047443296789267085791671468674057142274998966933758473517625154798358870709013
+  public exponent: 65537
+
+process 2: Got key: Sun RSA public key, 1024 bits
+  params: null
+  modulus: 135355343355842443378348976764566578619862484830893680258015749375432058953776588315608211566455767495227791876765516598387538393090172460520676953060137139850930918875047661575061189974181279810116546571009572719885538382624384493047443296789267085791671468674057142274998966933758473517625154798358870709013
+  public exponent: 65537
+
+process 1: Got key: Sun RSA public key, 1024 bits
+  params: null
+  modulus: 135355343355842443378348976764566578619862484830893680258015749375432058953776588315608211566455767495227791876765516598387538393090172460520676953060137139850930918875047661575061189974181279810116546571009572719885538382624384493047443296789267085791671468674057142274998966933758473517625154798358870709013
+  public exponent: 65537
+
+process 1: -- all processes's server is running --
+process 0: -- all processes's server is running --
+process 2: send block: HelenKeller1880.06.27ArthritisWarmClothsAspirin
+process 0: Got connection to UVB Server.
+process 1: Send PublicKey to 4710
+process 1: Send PublicKey to 4711
+process 1: Got key: Sun RSA public key, 1024 bits
+  params: null
+  modulus: 157532813033073655504933644594930808833755389514101123488109916359629090763859461692607523867663053970321265450810698669981612396136461584799880543460678144890602726777630642530376854624250265679863350699701836801828984913358250429721713927795523089887677100387681888024856685257822637849845530968864970001193
+  public exponent: 65537
+
+process 1: Send PublicKey to 4712
+process 0: Got key: Sun RSA public key, 1024 bits
+  params: null
+  modulus: 157532813033073655504933644594930808833755389514101123488109916359629090763859461692607523867663053970321265450810698669981612396136461584799880543460678144890602726777630642530376854624250265679863350699701836801828984913358250429721713927795523089887677100387681888024856685257822637849845530968864970001193
+  public exponent: 65537
+
+process 0: Received UVB: 2022-03-02_11-17-29_6922 HelenKeller1880.06.27ArthritisWarmClothsAspirin
+process 2: Got key: Sun RSA public key, 1024 bits
+  params: null
+  modulus: 157532813033073655504933644594930808833755389514101123488109916359629090763859461692607523867663053970321265450810698669981612396136461584799880543460678144890602726777630642530376854624250265679863350699701836801828984913358250429721713927795523089887677100387681888024856685257822637849845530968864970001193
+  public exponent: 65537
+
+process 1: Sending UVBs to process 4820...
+process 0: Got connection to UVB Server.
+process 0: Got key: Sun RSA public key, 1024 bits
+  params: null
+  modulus: 102456946120891094973701500972718096651154521289823147488083671838334281748440841029236829372362573723659709130191454572388359015216207067794884737421508274951555049940441008558645621875534733954934689393520464899980479800393992412349917510084074530288259503355771256569402733519608699138182304709230090213877
+  public exponent: 65537
+
+process 0: Send PublicKey to 4710
+process 0: Send PublicKey to 4711
+process 0: Send PublicKey to 4712
+process 1: Got key: Sun RSA public key, 1024 bits
+  params: null
+  modulus: 102456946120891094973701500972718096651154521289823147488083671838334281748440841029236829372362573723659709130191454572388359015216207067794884737421508274951555049940441008558645621875534733954934689393520464899980479800393992412349917510084074530288259503355771256569402733519608699138182304709230090213877
+  public exponent: 65537
+
+process 2: Got key: Sun RSA public key, 1024 bits
+  params: null
+  modulus: 102456946120891094973701500972718096651154521289823147488083671838334281748440841029236829372362573723659709130191454572388359015216207067794884737421508274951555049940441008558645621875534733954934689393520464899980479800393992412349917510084074530288259503355771256569402733519608699138182304709230090213877
+  public exponent: 65537
+
+process 0: Sending UVBs to process 4820...
+process 0: Got connection to UVB Server.
+process 2: send block: AbrahamLincoln1809.02.12GreviousWoundSurgeryWhiskey
+process 0: Received UVB: 2022-03-02_11-17-29_6922 AbrahamLincoln1809.02.12GreviousWoundSurgeryWhiskey
+process 0: Got connection to UVB Server.
+process 0: send block: JohnSmith1996.03.07ChickenpoxBedRestaspirin
+process 0: Received UVB: 2022-03-02_11-17-29_6820 JohnSmith1996.03.07ChickenpoxBedRestaspirin
+process 0: Got connection to UVB Server.
+process 0: Received UVB: 2022-03-02_11-17-29_6621 RitaVita1992.01.31ObessivePersonalityTryToRelaxIbuprofen
+process 1: send block: RitaVita1992.01.31ObessivePersonalityTryToRelaxIbuprofen
+process 0: Got connection to UVB Server.
+process 1: send block: WeiXu1996.03.22ShinglesWaitForReliefZovirax
+process 0: Got connection to UVB Server.
+process 1: send block: SallyMcCutty1970.01.01MigraineIcePackAlmotriptan
+process 0: Received UVB: 2022-03-02_11-17-29_6621 WeiXu1996.03.22ShinglesWaitForReliefZovirax
+process 0: Got connection to UVB Server.
+process 0: Received UVB: 2022-03-02_11-17-29_6621 SallyMcCutty1970.01.01MigraineIcePackAlmotriptan
+process 2: send block: JohnKennedy1917.05.29AddisonsDiseaseDrugTherapySteroids
+process 0: Received UVB: 2022-03-02_11-17-29_7002 JohnKennedy1917.05.29AddisonsDiseaseDrugTherapySteroids
+process 0: Got connection to UVB Server.
+process 1: send block: BruceLee1940.11.27SoreStomachLessCombatVicodine
+process 0: Received UVB: 2022-03-02_11-17-29_6621 BruceLee1940.11.27SoreStomachLessCombatVicodine
+process 1: Sending UVBs to process 4821...
+process 1: Got connection to UVB Server.
+process 0: send block: JoeBlow1996.03.07SmallpoxBedRestWhiskey
+process 0: Received UVB: 2022-03-02_11-17-29_6820 JoeBlow1996.03.07SmallpoxBedRestWhiskey
+process 0: Got connection to UVB Server.
+process 0: send block: JulieWilson1996.03.07InsomniaExerciseHotPeppers
+process 0: Got connection to UVB Server.
+process 0: send block: WayneBlaine1942.07.07MeaslesWaitToGetBetterCodLiverOil
+process 0: Received UVB: 2022-03-02_11-17-29_6820 JulieWilson1996.03.07InsomniaExerciseHotPeppers
+process 0: Received UVB: 2022-03-02_11-17-29_6820 WayneBlaine1942.07.07MeaslesWaitToGetBetterCodLiverOil
+process 0: Sending UVBs to process 4821...
+process 1: Got connection to UVB Server.
+process 2: send block: JoeDiMaggio1914.11.25SoreKneesRestFromSportsAspirin
+process 0: Received UVB: 2022-03-02_11-17-29_7002 JoeDiMaggio1914.11.25SoreKneesRestFromSportsAspirin
+process 2: Sending UVBs to process 4821...
+process 1: Got connection to UVB Server.
+process 1: send block: RitaVita1992.01.31ObessivePersonalityTryToRelaxIbuprofen
+process 1: Got connection to UVB Server.
+process 1: Received UVB: 2022-03-02_11-17-29_6621 RitaVita1992.01.31ObessivePersonalityTryToRelaxIbuprofen
+process 1: send block: WeiXu1996.03.22ShinglesWaitForReliefZovirax
+process 1: Received UVB: 2022-03-02_11-17-29_6621 WeiXu1996.03.22ShinglesWaitForReliefZovirax
+process 2: send block: HelenKeller1880.06.27ArthritisWarmClothsAspirin
+process 1: Received UVB: 2022-03-02_11-17-29_6922 HelenKeller1880.06.27ArthritisWarmClothsAspirin
+process 1: Got connection to UVB Server.
+process 1: Got connection to UVB Server.
+process 0: send block: JohnSmith1996.03.07ChickenpoxBedRestaspirin
+process 1: Received UVB: 2022-03-02_11-17-29_6820 JohnSmith1996.03.07ChickenpoxBedRestaspirin
+process 1: Got connection to UVB Server.
+process 1: send block: SallyMcCutty1970.01.01MigraineIcePackAlmotriptan
+process 1: Received UVB: 2022-03-02_11-17-29_6621 SallyMcCutty1970.01.01MigraineIcePackAlmotriptan
+process 1: Got connection to UVB Server.
+process 2: send block: AbrahamLincoln1809.02.12GreviousWoundSurgeryWhiskey
+process 1: Received UVB: 2022-03-02_11-17-29_6922 AbrahamLincoln1809.02.12GreviousWoundSurgeryWhiskey
+process 1: Got connection to UVB Server.
+process 1: Received UVB: 2022-03-02_11-17-29_6820 JoeBlow1996.03.07SmallpoxBedRestWhiskey
+process 0: send block: JoeBlow1996.03.07SmallpoxBedRestWhiskey
+process 1: Got connection to UVB Server.
+process 1: Received UVB: 2022-03-02_11-17-29_7002 JohnKennedy1917.05.29AddisonsDiseaseDrugTherapySteroids
+process 1: send block: BruceLee1940.11.27SoreStomachLessCombatVicodine
+process 1: Received UVB: 2022-03-02_11-17-29_6621 BruceLee1940.11.27SoreStomachLessCombatVicodine
+process 2: send block: JohnKennedy1917.05.29AddisonsDiseaseDrugTherapySteroids
+process 1: Got connection to UVB Server.
+process 1: Sending UVBs to process 4822...
+process 2: Got connection to UVB Server.
+process 1: Received UVB: 2022-03-02_11-17-29_6820 JulieWilson1996.03.07InsomniaExerciseHotPeppers
+process 0: send block: JulieWilson1996.03.07InsomniaExerciseHotPeppers
+process 1: Got connection to UVB Server.
+process 1: send block: RitaVita1992.01.31ObessivePersonalityTryToRelaxIbuprofen
+process 2: Got connection to UVB Server.
+process 2: Received UVB: 2022-03-02_11-17-29_6621 RitaVita1992.01.31ObessivePersonalityTryToRelaxIbuprofen
+process 2: send block: JoeDiMaggio1914.11.25SoreKneesRestFromSportsAspirin
+process 1: Received UVB: 2022-03-02_11-17-29_7002 JoeDiMaggio1914.11.25SoreKneesRestFromSportsAspirin
+process 2: Sending UVBs to process 4822...
+process 2: Got connection to UVB Server.
+process 1: Received UVB: 2022-03-02_11-17-29_6820 WayneBlaine1942.07.07MeaslesWaitToGetBetterCodLiverOil
+process 0: send block: WayneBlaine1942.07.07MeaslesWaitToGetBetterCodLiverOil
+process 0: Sending UVBs to process 4822...
+process 2: Got connection to UVB Server.
+process 1: send block: WeiXu1996.03.22ShinglesWaitForReliefZovirax
+process 2: Received UVB: 2022-03-02_11-17-29_6621 WeiXu1996.03.22ShinglesWaitForReliefZovirax
+process 2: Got connection to UVB Server.
+process 1: send block: SallyMcCutty1970.01.01MigraineIcePackAlmotriptan
+process 2: Received UVB: 2022-03-02_11-17-29_6621 SallyMcCutty1970.01.01MigraineIcePackAlmotriptan
+process 2: Got connection to UVB Server.
+process 2: send block: HelenKeller1880.06.27ArthritisWarmClothsAspirin
+process 2: Received UVB: 2022-03-02_11-17-29_6922 HelenKeller1880.06.27ArthritisWarmClothsAspirin
+process 2: Got connection to UVB Server.
+process 0: send block: JohnSmith1996.03.07ChickenpoxBedRestaspirin
+process 2: Received UVB: 2022-03-02_11-17-29_6820 JohnSmith1996.03.07ChickenpoxBedRestaspirin
+process 2: Got connection to UVB Server.
+process 1: send block: BruceLee1940.11.27SoreStomachLessCombatVicodine
+process 2: Received UVB: 2022-03-02_11-17-29_6621 BruceLee1940.11.27SoreStomachLessCombatVicodine
+process 2: Received UVB: 2022-03-02_11-17-29_6820 JoeBlow1996.03.07SmallpoxBedRestWhiskey
+process 0: send block: JoeBlow1996.03.07SmallpoxBedRestWhiskey
+process 2: Got connection to UVB Server.
+process 0: send block: JulieWilson1996.03.07InsomniaExerciseHotPeppers
+process 2: Got connection to UVB Server.
+process 2: Received UVB: 2022-03-02_11-17-29_6820 JulieWilson1996.03.07InsomniaExerciseHotPeppers
+process 2: send block: AbrahamLincoln1809.02.12GreviousWoundSurgeryWhiskey
+process 2: Received UVB: 2022-03-02_11-17-29_6922 AbrahamLincoln1809.02.12GreviousWoundSurgeryWhiskey
+process 2: Got connection to UVB Server.
+process 0: send block: WayneBlaine1942.07.07MeaslesWaitToGetBetterCodLiverOil
+process 2: Received UVB: 2022-03-02_11-17-29_6820 WayneBlaine1942.07.07MeaslesWaitToGetBetterCodLiverOil
+process 2: send block: JohnKennedy1917.05.29AddisonsDiseaseDrugTherapySteroids
+process 2: Received UVB: 2022-03-02_11-17-29_7002 JohnKennedy1917.05.29AddisonsDiseaseDrugTherapySteroids
+process 2: Got connection to UVB Server.
+process 2: send block: JoeDiMaggio1914.11.25SoreKneesRestFromSportsAspirin
+process 2: Received UVB: 2022-03-02_11-17-29_7002 JoeDiMaggio1914.11.25SoreKneesRestFromSportsAspirin
+process 2: -- all processes's server is running --
+process 0: start UnverifiedBlockConsumer
+process 0: Starting the Unverified Block Priority Queue Consumer thread. (UnverifiedBlockConsumer)
+process 0: Working...RitaVita1992.01.31ObessivePersonalityTryToRelaxIbuprofen
+process 0: 	Work done, answer = Q2EBI8C8
+process 0: Sending New Verified BlockRecord 4930...
+process 1: start UnverifiedBlockConsumer
+process 1: Starting the Unverified Block Priority Queue Consumer thread. (UnverifiedBlockConsumer)
+process 1: Working...RitaVita1992.01.31ObessivePersonalityTryToRelaxIbuprofen
+process 1: 	Work done, answer = CZ7KB5UY
+process 1: Sending New Verified BlockRecord 4930...
+process 1: Sending New Verified BlockRecord 4931...
+process 0: Get Verified Block RitaVita1992.01.31ObessivePersonalityTryToRelaxIbuprofen
+process 0: 	Add Verified Block to BlockchainLedger RitaVita1992.01.31ObessivePersonalityTryToRelaxIbuprofen
+process 2: start UnverifiedBlockConsumer
+process 2: Starting the Unverified Block Priority Queue Consumer thread. (UnverifiedBlockConsumer)
+process 2: Working...RitaVita1992.01.31ObessivePersonalityTryToRelaxIbuprofen
+process 0: write BlockchainLedger.json
+process 2: 	Work done, answer = PVRZOUZ1
+process 2: Sending New Verified BlockRecord 4930...
+process 0: Sending New Verified BlockRecord 4931...
+process 0: Get Verified Block RitaVita1992.01.31ObessivePersonalityTryToRelaxIbuprofen
+process 0: Sending New Verified BlockRecord 4932...
+process 0: 	Duplicated: do not add RitaVita1992.01.31ObessivePersonalityTryToRelaxIbuprofen
+process 1: Get Verified Block RitaVita1992.01.31ObessivePersonalityTryToRelaxIbuprofen
+process 0: write BlockchainLedger.json
+process 1: 	Add Verified Block to BlockchainLedger RitaVita1992.01.31ObessivePersonalityTryToRelaxIbuprofen
+process 1: Sending New Verified BlockRecord 4932...
+process 1: Get Verified Block RitaVita1992.01.31ObessivePersonalityTryToRelaxIbuprofen
+process 1: 	Duplicated: do not add RitaVita1992.01.31ObessivePersonalityTryToRelaxIbuprofen
+process 0: Get Verified Block RitaVita1992.01.31ObessivePersonalityTryToRelaxIbuprofen
+process 0: 	Duplicated: do not add RitaVita1992.01.31ObessivePersonalityTryToRelaxIbuprofen
+process 2: Sending New Verified BlockRecord 4931...
+process 0: write BlockchainLedger.json
+process 1: Get Verified Block RitaVita1992.01.31ObessivePersonalityTryToRelaxIbuprofen
+process 2: Sending New Verified BlockRecord 4932...
+process 1: 	Duplicated: do not add RitaVita1992.01.31ObessivePersonalityTryToRelaxIbuprofen
+process 0: Send Verified BlockRecord RitaVita1992.01.31ObessivePersonalityTryToRelaxIbuprofen
+process 2: Get Verified Block RitaVita1992.01.31ObessivePersonalityTryToRelaxIbuprofen
+process 0: Working...WeiXu1996.03.22ShinglesWaitForReliefZovirax
+process 2: 	Add Verified Block to BlockchainLedger RitaVita1992.01.31ObessivePersonalityTryToRelaxIbuprofen
+process 0: 	Work done, answer = TXPAY1MU
+process 0: Sending New Verified BlockRecord 4930...
+process 2: Send Verified BlockRecord RitaVita1992.01.31ObessivePersonalityTryToRelaxIbuprofen
+process 2: Get Verified Block RitaVita1992.01.31ObessivePersonalityTryToRelaxIbuprofen
+process 2: 	Duplicated: do not add RitaVita1992.01.31ObessivePersonalityTryToRelaxIbuprofen
+process 2: Working...WeiXu1996.03.22ShinglesWaitForReliefZovirax
+process 2: 	Work done, answer = 7BKT8DRO
+process 2: Sending New Verified BlockRecord 4930...
+process 2: Get Verified Block RitaVita1992.01.31ObessivePersonalityTryToRelaxIbuprofen
+process 1: Send Verified BlockRecord RitaVita1992.01.31ObessivePersonalityTryToRelaxIbuprofen
+process 2: 	Duplicated: do not add RitaVita1992.01.31ObessivePersonalityTryToRelaxIbuprofen
+process 1: Working...SallyMcCutty1970.01.01MigraineIcePackAlmotriptan
+process 1: 	Work done, answer = TN5OIXMN
+process 1: Sending New Verified BlockRecord 4930...
+process 1: Sending New Verified BlockRecord 4931...
+process 0: Get Verified Block SallyMcCutty1970.01.01MigraineIcePackAlmotriptan
+process 0: 	Add Verified Block to BlockchainLedger SallyMcCutty1970.01.01MigraineIcePackAlmotriptan
+process 0: write BlockchainLedger.json
+process 2: Sending New Verified BlockRecord 4931...
+process 0: Get Verified Block WeiXu1996.03.22ShinglesWaitForReliefZovirax
+process 0: 	Add Verified Block to BlockchainLedger WeiXu1996.03.22ShinglesWaitForReliefZovirax
+process 0: write BlockchainLedger.json
+process 2: Sending New Verified BlockRecord 4932...
+process 1: Get Verified Block WeiXu1996.03.22ShinglesWaitForReliefZovirax
+process 1: 	Add Verified Block to BlockchainLedger WeiXu1996.03.22ShinglesWaitForReliefZovirax
+process 0: Sending New Verified BlockRecord 4931...
+process 0: Get Verified Block WeiXu1996.03.22ShinglesWaitForReliefZovirax
+process 0: 	Duplicated: do not add WeiXu1996.03.22ShinglesWaitForReliefZovirax
+process 0: write BlockchainLedger.json
+process 0: Sending New Verified BlockRecord 4932...
+process 1: Get Verified Block WeiXu1996.03.22ShinglesWaitForReliefZovirax
+process 1: Sending New Verified BlockRecord 4932...
+process 1: Get Verified Block SallyMcCutty1970.01.01MigraineIcePackAlmotriptan
+process 1: 	Duplicated: do not add WeiXu1996.03.22ShinglesWaitForReliefZovirax
+process 1: 	Add Verified Block to BlockchainLedger SallyMcCutty1970.01.01MigraineIcePackAlmotriptan
+process 2: Get Verified Block WeiXu1996.03.22ShinglesWaitForReliefZovirax
+process 2: Send Verified BlockRecord WeiXu1996.03.22ShinglesWaitForReliefZovirax
+process 2: 	Add Verified Block to BlockchainLedger WeiXu1996.03.22ShinglesWaitForReliefZovirax
+process 2: Working...SallyMcCutty1970.01.01MigraineIcePackAlmotriptan
+process 2: 	Work done, answer = GSMSTLKX
+process 2: Sending New Verified BlockRecord 4930...
+process 2: Sending New Verified BlockRecord 4931...
+process 0: Get Verified Block SallyMcCutty1970.01.01MigraineIcePackAlmotriptan
+process 0: 	Duplicated: do not add SallyMcCutty1970.01.01MigraineIcePackAlmotriptan
+process 0: write BlockchainLedger.json
+process 2: Get Verified Block WeiXu1996.03.22ShinglesWaitForReliefZovirax
+process 0: Send Verified BlockRecord WeiXu1996.03.22ShinglesWaitForReliefZovirax
+process 2: 	Duplicated: do not add WeiXu1996.03.22ShinglesWaitForReliefZovirax
+process 0: Working...BruceLee1940.11.27SoreStomachLessCombatVicodine
+process 0: 	Work done, answer = IQWYA4LI
+process 0: Sending New Verified BlockRecord 4930...
+process 1: Send Verified BlockRecord SallyMcCutty1970.01.01MigraineIcePackAlmotriptan
+process 2: Get Verified Block SallyMcCutty1970.01.01MigraineIcePackAlmotriptan
+process 2: 	Add Verified Block to BlockchainLedger SallyMcCutty1970.01.01MigraineIcePackAlmotriptan
+process 1: Working...BruceLee1940.11.27SoreStomachLessCombatVicodine
+process 1: 	Work done, answer = E1M72IJX
+process 1: Sending New Verified BlockRecord 4930...
+process 2: Sending New Verified BlockRecord 4932...
+process 1: Get Verified Block SallyMcCutty1970.01.01MigraineIcePackAlmotriptan
+process 1: 	Duplicated: do not add SallyMcCutty1970.01.01MigraineIcePackAlmotriptan
+process 0: Sending New Verified BlockRecord 4931...
+process 0: Get Verified Block BruceLee1940.11.27SoreStomachLessCombatVicodine
+process 0: 	Add Verified Block to BlockchainLedger BruceLee1940.11.27SoreStomachLessCombatVicodine
+process 0: write BlockchainLedger.json
+process 2: Send Verified BlockRecord SallyMcCutty1970.01.01MigraineIcePackAlmotriptan
+process 2: Get Verified Block SallyMcCutty1970.01.01MigraineIcePackAlmotriptan
+process 2: Working...BruceLee1940.11.27SoreStomachLessCombatVicodine
+process 2: 	Duplicated: do not add SallyMcCutty1970.01.01MigraineIcePackAlmotriptan
+process 2: 	Work done, answer = ZQBXRUU9
+process 2: Sending New Verified BlockRecord 4930...
+process 1: Sending New Verified BlockRecord 4931...
+process 0: Get Verified Block BruceLee1940.11.27SoreStomachLessCombatVicodine
+process 0: 	Duplicated: do not add BruceLee1940.11.27SoreStomachLessCombatVicodine
+process 0: write BlockchainLedger.json
+process 0: Sending New Verified BlockRecord 4932...
+process 1: Get Verified Block BruceLee1940.11.27SoreStomachLessCombatVicodine
+process 1: 	Add Verified Block to BlockchainLedger BruceLee1940.11.27SoreStomachLessCombatVicodine
+process 0: Send Verified BlockRecord BruceLee1940.11.27SoreStomachLessCombatVicodine
+process 2: Get Verified Block BruceLee1940.11.27SoreStomachLessCombatVicodine
+process 0: Working...SallyMcCutty1970.01.01MigraineIcePackAlmotriptan
+process 2: 	Add Verified Block to BlockchainLedger BruceLee1940.11.27SoreStomachLessCombatVicodine
+process 0: 	Work done, answer = GB5QNCHP
+process 0: Sending New Verified BlockRecord 4930...
+process 2: Sending New Verified BlockRecord 4931...
+process 0: Get Verified Block BruceLee1940.11.27SoreStomachLessCombatVicodine
+process 0: 	Duplicated: do not add BruceLee1940.11.27SoreStomachLessCombatVicodine
+process 0: write BlockchainLedger.json
+process 2: Sending New Verified BlockRecord 4932...
+process 1: Get Verified Block BruceLee1940.11.27SoreStomachLessCombatVicodine
+process 1: 	Duplicated: do not add BruceLee1940.11.27SoreStomachLessCombatVicodine
+process 1: Sending New Verified BlockRecord 4932...
+process 1: Get Verified Block BruceLee1940.11.27SoreStomachLessCombatVicodine
+process 1: 	Duplicated: do not add BruceLee1940.11.27SoreStomachLessCombatVicodine
+process 0: Sending New Verified BlockRecord 4931...
+process 0: Get Verified Block SallyMcCutty1970.01.01MigraineIcePackAlmotriptan
+process 0: 	Duplicated: do not add SallyMcCutty1970.01.01MigraineIcePackAlmotriptan
+process 0: write BlockchainLedger.json
+process 2: Send Verified BlockRecord BruceLee1940.11.27SoreStomachLessCombatVicodine
+process 2: Get Verified Block BruceLee1940.11.27SoreStomachLessCombatVicodine
+process 2: Working...JulieWilson1996.03.07InsomniaExerciseHotPeppers
+process 2: 	Duplicated: do not add BruceLee1940.11.27SoreStomachLessCombatVicodine
+process 2: 	Work done, answer = 2RM98UFI
+process 2: Sending New Verified BlockRecord 4930...
+process 1: Send Verified BlockRecord BruceLee1940.11.27SoreStomachLessCombatVicodine
+process 2: Get Verified Block BruceLee1940.11.27SoreStomachLessCombatVicodine
+process 2: 	Duplicated: do not add BruceLee1940.11.27SoreStomachLessCombatVicodine
+process 1: Working...WeiXu1996.03.22ShinglesWaitForReliefZovirax
+process 1: 	Work done, answer = KKH24HM2
+process 1: Sending New Verified BlockRecord 4930...
+process 0: Sending New Verified BlockRecord 4932...
+process 1: Get Verified Block SallyMcCutty1970.01.01MigraineIcePackAlmotriptan
+process 1: 	Duplicated: do not add SallyMcCutty1970.01.01MigraineIcePackAlmotriptan
+process 0: Send Verified BlockRecord SallyMcCutty1970.01.01MigraineIcePackAlmotriptan
+process 2: Get Verified Block SallyMcCutty1970.01.01MigraineIcePackAlmotriptan
+process 0: Working...WayneBlaine1942.07.07MeaslesWaitToGetBetterCodLiverOil
+process 2: 	Duplicated: do not add SallyMcCutty1970.01.01MigraineIcePackAlmotriptan
+process 0: 	Work done, answer = 17P2DUGN
+process 0: Sending New Verified BlockRecord 4930...
+process 1: Sending New Verified BlockRecord 4931...
+process 0: Get Verified Block WeiXu1996.03.22ShinglesWaitForReliefZovirax
+process 0: 	Duplicated: do not add WeiXu1996.03.22ShinglesWaitForReliefZovirax
+process 0: write BlockchainLedger.json
+process 2: Sending New Verified BlockRecord 4931...
+process 0: Get Verified Block JulieWilson1996.03.07InsomniaExerciseHotPeppers
+process 0: 	Add Verified Block to BlockchainLedger JulieWilson1996.03.07InsomniaExerciseHotPeppers
+process 0: write BlockchainLedger.json
+process 1: Sending New Verified BlockRecord 4932...
+process 1: Get Verified Block WeiXu1996.03.22ShinglesWaitForReliefZovirax
+process 1: 	Duplicated: do not add WeiXu1996.03.22ShinglesWaitForReliefZovirax
+process 2: Sending New Verified BlockRecord 4932...
+process 1: Get Verified Block JulieWilson1996.03.07InsomniaExerciseHotPeppers
+process 1: 	Add Verified Block to BlockchainLedger JulieWilson1996.03.07InsomniaExerciseHotPeppers
+process 1: Send Verified BlockRecord WeiXu1996.03.22ShinglesWaitForReliefZovirax
+process 2: Get Verified Block WeiXu1996.03.22ShinglesWaitForReliefZovirax
+process 2: 	Duplicated: do not add WeiXu1996.03.22ShinglesWaitForReliefZovirax
+process 1: Working...JohnSmith1996.03.07ChickenpoxBedRestaspirin
+process 0: Sending New Verified BlockRecord 4931...
+process 0: Get Verified Block WayneBlaine1942.07.07MeaslesWaitToGetBetterCodLiverOil
+process 0: 	Add Verified Block to BlockchainLedger WayneBlaine1942.07.07MeaslesWaitToGetBetterCodLiverOil
+process 1: 	Work done, answer = E0ZV2EWN
+process 1: Sending New Verified BlockRecord 4930...
+process 0: write BlockchainLedger.json
+process 0: Sending New Verified BlockRecord 4932...
+process 1: Get Verified Block WayneBlaine1942.07.07MeaslesWaitToGetBetterCodLiverOil
+process 1: 	Add Verified Block to BlockchainLedger WayneBlaine1942.07.07MeaslesWaitToGetBetterCodLiverOil
+process 2: Send Verified BlockRecord JulieWilson1996.03.07InsomniaExerciseHotPeppers
+process 2: Get Verified Block JulieWilson1996.03.07InsomniaExerciseHotPeppers
+process 2: Working...JohnSmith1996.03.07ChickenpoxBedRestaspirin
+process 2: 	Add Verified Block to BlockchainLedger JulieWilson1996.03.07InsomniaExerciseHotPeppers
+process 2: 	Work done, answer = 035JQR57
+process 2: Sending New Verified BlockRecord 4930...
+process 1: Sending New Verified BlockRecord 4931...
+process 0: Get Verified Block JohnSmith1996.03.07ChickenpoxBedRestaspirin
+process 0: 	Add Verified Block to BlockchainLedger JohnSmith1996.03.07ChickenpoxBedRestaspirin
+process 0: write BlockchainLedger.json
+process 0: Send Verified BlockRecord WayneBlaine1942.07.07MeaslesWaitToGetBetterCodLiverOil
+process 2: Get Verified Block WayneBlaine1942.07.07MeaslesWaitToGetBetterCodLiverOil
+process 0: Working...JoeBlow1996.03.07SmallpoxBedRestWhiskey
+process 2: 	Add Verified Block to BlockchainLedger WayneBlaine1942.07.07MeaslesWaitToGetBetterCodLiverOil
+process 0: 	Work done, answer = 0LHMW3X9
+process 0: Sending New Verified BlockRecord 4930...
+process 1: Sending New Verified BlockRecord 4932...
+process 1: Get Verified Block JohnSmith1996.03.07ChickenpoxBedRestaspirin
+process 1: 	Add Verified Block to BlockchainLedger JohnSmith1996.03.07ChickenpoxBedRestaspirin
+process 0: Sending New Verified BlockRecord 4931...
+process 0: Get Verified Block JoeBlow1996.03.07SmallpoxBedRestWhiskey
+process 0: 	Add Verified Block to BlockchainLedger JoeBlow1996.03.07SmallpoxBedRestWhiskey
+process 0: write BlockchainLedger.json
+process 2: Sending New Verified BlockRecord 4931...
+process 0: Get Verified Block JohnSmith1996.03.07ChickenpoxBedRestaspirin
+process 0: 	Duplicated: do not add JohnSmith1996.03.07ChickenpoxBedRestaspirin
+process 0: write BlockchainLedger.json
+process 2: Sending New Verified BlockRecord 4932...
+process 1: Get Verified Block JohnSmith1996.03.07ChickenpoxBedRestaspirin
+process 1: 	Duplicated: do not add JohnSmith1996.03.07ChickenpoxBedRestaspirin
+process 2: Get Verified Block JohnSmith1996.03.07ChickenpoxBedRestaspirin
+process 1: Send Verified BlockRecord JohnSmith1996.03.07ChickenpoxBedRestaspirin
+process 2: 	Add Verified Block to BlockchainLedger JohnSmith1996.03.07ChickenpoxBedRestaspirin
+process 1: Working...JulieWilson1996.03.07InsomniaExerciseHotPeppers
+process 1: 	Work done, answer = UMG9XECL
+process 1: Sending New Verified BlockRecord 4930...
+process 1: Sending New Verified BlockRecord 4931...
+process 0: Get Verified Block JulieWilson1996.03.07InsomniaExerciseHotPeppers
+process 0: 	Duplicated: do not add JulieWilson1996.03.07InsomniaExerciseHotPeppers
+process 0: write BlockchainLedger.json
+process 0: Sending New Verified BlockRecord 4932...
+process 1: Get Verified Block JoeBlow1996.03.07SmallpoxBedRestWhiskey
+process 1: 	Add Verified Block to BlockchainLedger JoeBlow1996.03.07SmallpoxBedRestWhiskey
+process 2: Get Verified Block JohnSmith1996.03.07ChickenpoxBedRestaspirin
+process 2: Send Verified BlockRecord JohnSmith1996.03.07ChickenpoxBedRestaspirin
+process 2: 	Duplicated: do not add JohnSmith1996.03.07ChickenpoxBedRestaspirin
+process 2: Working...JoeBlow1996.03.07SmallpoxBedRestWhiskey
+process 2: 	Work done, answer = TYU04VKT
+process 2: Sending New Verified BlockRecord 4930...
+process 2: Sending New Verified BlockRecord 4931...
+process 0: Get Verified Block JoeBlow1996.03.07SmallpoxBedRestWhiskey
+process 0: 	Duplicated: do not add JoeBlow1996.03.07SmallpoxBedRestWhiskey
+process 0: write BlockchainLedger.json
+process 0: Send Verified BlockRecord JoeBlow1996.03.07SmallpoxBedRestWhiskey
+process 2: Get Verified Block JoeBlow1996.03.07SmallpoxBedRestWhiskey
+process 0: Working...JohnSmith1996.03.07ChickenpoxBedRestaspirin
+process 2: 	Add Verified Block to BlockchainLedger JoeBlow1996.03.07SmallpoxBedRestWhiskey
+process 0: 	Work done, answer = 5PQIFP0A
+process 0: Sending New Verified BlockRecord 4930...
+process 2: Sending New Verified BlockRecord 4932...
+process 1: Get Verified Block JoeBlow1996.03.07SmallpoxBedRestWhiskey
+process 1: 	Duplicated: do not add JoeBlow1996.03.07SmallpoxBedRestWhiskey
+process 1: Sending New Verified BlockRecord 4932...
+process 1: Get Verified Block JulieWilson1996.03.07InsomniaExerciseHotPeppers
+process 1: 	Duplicated: do not add JulieWilson1996.03.07InsomniaExerciseHotPeppers
+process 0: Get Verified Block JohnSmith1996.03.07ChickenpoxBedRestaspirin
+process 0: Sending New Verified BlockRecord 4931...
+process 0: 	Duplicated: do not add JohnSmith1996.03.07ChickenpoxBedRestaspirin
+process 0: write BlockchainLedger.json
+process 1: Send Verified BlockRecord JulieWilson1996.03.07InsomniaExerciseHotPeppers
+process 2: Get Verified Block JulieWilson1996.03.07InsomniaExerciseHotPeppers
+process 1: Working...JoeBlow1996.03.07SmallpoxBedRestWhiskey
+process 2: 	Duplicated: do not add JulieWilson1996.03.07InsomniaExerciseHotPeppers
+process 1: 	Work done, answer = 4Y3L6TFH
+process 1: Sending New Verified BlockRecord 4930...
+process 2: Send Verified BlockRecord JoeBlow1996.03.07SmallpoxBedRestWhiskey
+process 2: Get Verified Block JoeBlow1996.03.07SmallpoxBedRestWhiskey
+process 2: Working...WayneBlaine1942.07.07MeaslesWaitToGetBetterCodLiverOil
+process 2: 	Duplicated: do not add JoeBlow1996.03.07SmallpoxBedRestWhiskey
+process 2: 	Work done, answer = 8QL0YKPW
+process 2: Sending New Verified BlockRecord 4930...
+process 0: Sending New Verified BlockRecord 4932...
+process 1: Get Verified Block JohnSmith1996.03.07ChickenpoxBedRestaspirin
+process 1: 	Duplicated: do not add JohnSmith1996.03.07ChickenpoxBedRestaspirin
+process 0: Send Verified BlockRecord JohnSmith1996.03.07ChickenpoxBedRestaspirin
+process 2: Get Verified Block JohnSmith1996.03.07ChickenpoxBedRestaspirin
+process 2: 	Duplicated: do not add JohnSmith1996.03.07ChickenpoxBedRestaspirin
+process 0: Working...JulieWilson1996.03.07InsomniaExerciseHotPeppers
+process 0: 	Work done, answer = JRGIW72B
+process 0: Sending New Verified BlockRecord 4930...
+process 1: Sending New Verified BlockRecord 4931...
+process 0: Get Verified Block JoeBlow1996.03.07SmallpoxBedRestWhiskey
+process 0: Get Verified Block JulieWilson1996.03.07InsomniaExerciseHotPeppers
+process 0: Sending New Verified BlockRecord 4931...
+process 0: 	Duplicated: do not add JoeBlow1996.03.07SmallpoxBedRestWhiskey
+process 0: 	Duplicated: do not add JulieWilson1996.03.07InsomniaExerciseHotPeppers
+process 0: write BlockchainLedger.json
+process 0: Sending New Verified BlockRecord 4932...
+process 0: write BlockchainLedger.json
+process 1: Get Verified Block JulieWilson1996.03.07InsomniaExerciseHotPeppers
+process 1: 	Duplicated: do not add JulieWilson1996.03.07InsomniaExerciseHotPeppers
+process 2: Sending New Verified BlockRecord 4931...
+process 0: Get Verified Block WayneBlaine1942.07.07MeaslesWaitToGetBetterCodLiverOil
+process 0: 	Duplicated: do not add WayneBlaine1942.07.07MeaslesWaitToGetBetterCodLiverOil
+process 0: write BlockchainLedger.json
+process 2: Sending New Verified BlockRecord 4932...
+process 1: Get Verified Block WayneBlaine1942.07.07MeaslesWaitToGetBetterCodLiverOil
+process 1: 	Duplicated: do not add WayneBlaine1942.07.07MeaslesWaitToGetBetterCodLiverOil
+process 0: Send Verified BlockRecord JulieWilson1996.03.07InsomniaExerciseHotPeppers
+process 2: Get Verified Block JulieWilson1996.03.07InsomniaExerciseHotPeppers
+process 0: Working...AbrahamLincoln1809.02.12GreviousWoundSurgeryWhiskey
+process 2: 	Duplicated: do not add JulieWilson1996.03.07InsomniaExerciseHotPeppers
+process 0: 	Work done, answer = 6502Y31O
+process 0: Sending New Verified BlockRecord 4930...
+process 2: Send Verified BlockRecord WayneBlaine1942.07.07MeaslesWaitToGetBetterCodLiverOil
+process 2: Get Verified Block WayneBlaine1942.07.07MeaslesWaitToGetBetterCodLiverOil
+process 2: Working...AbrahamLincoln1809.02.12GreviousWoundSurgeryWhiskey
+process 2: 	Duplicated: do not add WayneBlaine1942.07.07MeaslesWaitToGetBetterCodLiverOil
+process 2: 	Work done, answer = J5ZBSYO0
+process 2: Sending New Verified BlockRecord 4930...
+process 1: Sending New Verified BlockRecord 4932...
+process 1: Get Verified Block JoeBlow1996.03.07SmallpoxBedRestWhiskey
+process 1: 	Duplicated: do not add JoeBlow1996.03.07SmallpoxBedRestWhiskey
+process 0: Sending New Verified BlockRecord 4931...
+process 0: Get Verified Block AbrahamLincoln1809.02.12GreviousWoundSurgeryWhiskey
+process 0: 	Add Verified Block to BlockchainLedger AbrahamLincoln1809.02.12GreviousWoundSurgeryWhiskey
+process 0: write BlockchainLedger.json
+process 2: Sending New Verified BlockRecord 4931...
+process 0: Get Verified Block AbrahamLincoln1809.02.12GreviousWoundSurgeryWhiskey
+process 0: 	Duplicated: do not add AbrahamLincoln1809.02.12GreviousWoundSurgeryWhiskey
+process 0: write BlockchainLedger.json
+process 0: Sending New Verified BlockRecord 4932...
+process 1: Get Verified Block AbrahamLincoln1809.02.12GreviousWoundSurgeryWhiskey
+process 1: 	Add Verified Block to BlockchainLedger AbrahamLincoln1809.02.12GreviousWoundSurgeryWhiskey
+process 1: Send Verified BlockRecord JoeBlow1996.03.07SmallpoxBedRestWhiskey
+process 2: Get Verified Block JoeBlow1996.03.07SmallpoxBedRestWhiskey
+process 1: Working...WayneBlaine1942.07.07MeaslesWaitToGetBetterCodLiverOil
+process 2: 	Duplicated: do not add JoeBlow1996.03.07SmallpoxBedRestWhiskey
+process 1: 	Work done, answer = XYFUBY29
+process 1: Sending New Verified BlockRecord 4930...
+process 2: Sending New Verified BlockRecord 4932...
+process 1: Get Verified Block AbrahamLincoln1809.02.12GreviousWoundSurgeryWhiskey
+process 1: 	Duplicated: do not add AbrahamLincoln1809.02.12GreviousWoundSurgeryWhiskey
+process 2: Send Verified BlockRecord AbrahamLincoln1809.02.12GreviousWoundSurgeryWhiskey
+process 2: Get Verified Block AbrahamLincoln1809.02.12GreviousWoundSurgeryWhiskey
+process 2: Working...HelenKeller1880.06.27ArthritisWarmClothsAspirin
+process 2: 	Add Verified Block to BlockchainLedger AbrahamLincoln1809.02.12GreviousWoundSurgeryWhiskey
+process 2: 	Work done, answer = ZC8VM6S3
+process 2: Sending New Verified BlockRecord 4930...
+process 2: Sending New Verified BlockRecord 4931...
+process 0: Get Verified Block HelenKeller1880.06.27ArthritisWarmClothsAspirin
+process 0: 	Add Verified Block to BlockchainLedger HelenKeller1880.06.27ArthritisWarmClothsAspirin
+process 0: write BlockchainLedger.json
+process 1: Sending New Verified BlockRecord 4931...
+process 0: Get Verified Block WayneBlaine1942.07.07MeaslesWaitToGetBetterCodLiverOil
+process 0: 	Duplicated: do not add WayneBlaine1942.07.07MeaslesWaitToGetBetterCodLiverOil
+process 0: write BlockchainLedger.json
+process 0: Send Verified BlockRecord AbrahamLincoln1809.02.12GreviousWoundSurgeryWhiskey
+process 2: Get Verified Block AbrahamLincoln1809.02.12GreviousWoundSurgeryWhiskey
+process 2: 	Duplicated: do not add AbrahamLincoln1809.02.12GreviousWoundSurgeryWhiskey
+process 0: Working...HelenKeller1880.06.27ArthritisWarmClothsAspirin
+process 0: 	Work done, answer = P0Y7SXX9
+process 0: Sending New Verified BlockRecord 4930...
+process 1: Get Verified Block HelenKeller1880.06.27ArthritisWarmClothsAspirin
+process 2: Sending New Verified BlockRecord 4932...
+process 1: 	Add Verified Block to BlockchainLedger HelenKeller1880.06.27ArthritisWarmClothsAspirin
+process 2: Send Verified BlockRecord HelenKeller1880.06.27ArthritisWarmClothsAspirin
+process 2: Working...JohnKennedy1917.05.29AddisonsDiseaseDrugTherapySteroids
+process 2: Get Verified Block HelenKeller1880.06.27ArthritisWarmClothsAspirin
+process 2: 	Work done, answer = MR55GITI
+process 2: 	Add Verified Block to BlockchainLedger HelenKeller1880.06.27ArthritisWarmClothsAspirin
+process 2: Sending New Verified BlockRecord 4930...
+process 2: Sending New Verified BlockRecord 4931...
+process 0: Get Verified Block JohnKennedy1917.05.29AddisonsDiseaseDrugTherapySteroids
+process 2: Sending New Verified BlockRecord 4932...
+process 0: 	Add Verified Block to BlockchainLedger JohnKennedy1917.05.29AddisonsDiseaseDrugTherapySteroids
+process 0: write BlockchainLedger.json
+process 1: Get Verified Block JohnKennedy1917.05.29AddisonsDiseaseDrugTherapySteroids
+process 1: 	Add Verified Block to BlockchainLedger JohnKennedy1917.05.29AddisonsDiseaseDrugTherapySteroids
+process 1: Sending New Verified BlockRecord 4932...
+process 1: Get Verified Block WayneBlaine1942.07.07MeaslesWaitToGetBetterCodLiverOil
+process 1: 	Duplicated: do not add WayneBlaine1942.07.07MeaslesWaitToGetBetterCodLiverOil
+process 0: Sending New Verified BlockRecord 4931...
+process 0: Get Verified Block HelenKeller1880.06.27ArthritisWarmClothsAspirin
+process 0: 	Duplicated: do not add HelenKeller1880.06.27ArthritisWarmClothsAspirin
+process 0: write BlockchainLedger.json
+process 0: Sending New Verified BlockRecord 4932...
+process 1: Get Verified Block HelenKeller1880.06.27ArthritisWarmClothsAspirin
+process 1: 	Duplicated: do not add HelenKeller1880.06.27ArthritisWarmClothsAspirin
+process 0: Send Verified BlockRecord HelenKeller1880.06.27ArthritisWarmClothsAspirin
+process 0: Working...JohnKennedy1917.05.29AddisonsDiseaseDrugTherapySteroids
+process 2: Get Verified Block HelenKeller1880.06.27ArthritisWarmClothsAspirin
+process 0: 	Work done, answer = XARGZQEJ
+process 2: 	Duplicated: do not add HelenKeller1880.06.27ArthritisWarmClothsAspirin
+process 0: Sending New Verified BlockRecord 4930...
+process 2: Send Verified BlockRecord JohnKennedy1917.05.29AddisonsDiseaseDrugTherapySteroids
+process 2: Get Verified Block JohnKennedy1917.05.29AddisonsDiseaseDrugTherapySteroids
+process 2: Working...JoeDiMaggio1914.11.25SoreKneesRestFromSportsAspirin
+process 2: 	Add Verified Block to BlockchainLedger JohnKennedy1917.05.29AddisonsDiseaseDrugTherapySteroids
+process 2: 	Work done, answer = OI4APF8B
+process 2: Sending New Verified BlockRecord 4930...
+process 1: Send Verified BlockRecord WayneBlaine1942.07.07MeaslesWaitToGetBetterCodLiverOil
+process 2: Get Verified Block WayneBlaine1942.07.07MeaslesWaitToGetBetterCodLiverOil
+process 2: 	Duplicated: do not add WayneBlaine1942.07.07MeaslesWaitToGetBetterCodLiverOil
+process 1: Working...HelenKeller1880.06.27ArthritisWarmClothsAspirin
+process 1: 	Work done, answer = YR6XM0JV
+process 1: Sending New Verified BlockRecord 4930...
+process 1: Sending New Verified BlockRecord 4931...
+process 0: Get Verified Block HelenKeller1880.06.27ArthritisWarmClothsAspirin
+process 0: 	Duplicated: do not add HelenKeller1880.06.27ArthritisWarmClothsAspirin
+process 0: write BlockchainLedger.json
+process 1: Sending New Verified BlockRecord 4932...
+process 1: Get Verified Block HelenKeller1880.06.27ArthritisWarmClothsAspirin
+process 1: 	Duplicated: do not add HelenKeller1880.06.27ArthritisWarmClothsAspirin
+process 0: Sending New Verified BlockRecord 4931...
+process 0: Get Verified Block JohnKennedy1917.05.29AddisonsDiseaseDrugTherapySteroids
+process 0: 	Duplicated: do not add JohnKennedy1917.05.29AddisonsDiseaseDrugTherapySteroids
+process 0: write BlockchainLedger.json
+process 2: Sending New Verified BlockRecord 4931...
+process 0: Get Verified Block JoeDiMaggio1914.11.25SoreKneesRestFromSportsAspirin
+process 0: 	Add Verified Block to BlockchainLedger JoeDiMaggio1914.11.25SoreKneesRestFromSportsAspirin
+process 0: write BlockchainLedger.json
+process 2: Sending New Verified BlockRecord 4932...
+process 1: Get Verified Block JoeDiMaggio1914.11.25SoreKneesRestFromSportsAspirin
+process 1: 	Add Verified Block to BlockchainLedger JoeDiMaggio1914.11.25SoreKneesRestFromSportsAspirin
+process 1: Send Verified BlockRecord HelenKeller1880.06.27ArthritisWarmClothsAspirin
+process 2: Get Verified Block HelenKeller1880.06.27ArthritisWarmClothsAspirin
+process 2: 	Duplicated: do not add HelenKeller1880.06.27ArthritisWarmClothsAspirin
+process 1: Working...AbrahamLincoln1809.02.12GreviousWoundSurgeryWhiskey
+process 1: 	Work done, answer = V5CVDXW0
+process 1: Sending New Verified BlockRecord 4930...
+process 0: Sending New Verified BlockRecord 4932...
+process 1: Get Verified Block JohnKennedy1917.05.29AddisonsDiseaseDrugTherapySteroids
+process 1: 	Duplicated: do not add JohnKennedy1917.05.29AddisonsDiseaseDrugTherapySteroids
+process 1: Sending New Verified BlockRecord 4931...
+process 0: Get Verified Block AbrahamLincoln1809.02.12GreviousWoundSurgeryWhiskey
+process 0: 	Duplicated: do not add AbrahamLincoln1809.02.12GreviousWoundSurgeryWhiskey
+process 0: write BlockchainLedger.json
+process 2: Get Verified Block JoeDiMaggio1914.11.25SoreKneesRestFromSportsAspirin
+process 2: 	Add Verified Block to BlockchainLedger JoeDiMaggio1914.11.25SoreKneesRestFromSportsAspirin
+process 2: Send Verified BlockRecord JoeDiMaggio1914.11.25SoreKneesRestFromSportsAspirin
+process 0: Send Verified BlockRecord JohnKennedy1917.05.29AddisonsDiseaseDrugTherapySteroids
+process 2: Get Verified Block JohnKennedy1917.05.29AddisonsDiseaseDrugTherapySteroids
+process 2: 	Duplicated: do not add JohnKennedy1917.05.29AddisonsDiseaseDrugTherapySteroids
+process 0: Working...JoeDiMaggio1914.11.25SoreKneesRestFromSportsAspirin
+process 0: 	Work done, answer = EYHIP7QG
+process 0: Sending New Verified BlockRecord 4930...
+process 1: Sending New Verified BlockRecord 4932...
+process 1: Get Verified Block AbrahamLincoln1809.02.12GreviousWoundSurgeryWhiskey
+process 1: 	Duplicated: do not add AbrahamLincoln1809.02.12GreviousWoundSurgeryWhiskey
+process 0: Sending New Verified BlockRecord 4931...
+process 0: Get Verified Block JoeDiMaggio1914.11.25SoreKneesRestFromSportsAspirin
+process 0: 	Duplicated: do not add JoeDiMaggio1914.11.25SoreKneesRestFromSportsAspirin
+process 0: write BlockchainLedger.json
+process 1: Send Verified BlockRecord AbrahamLincoln1809.02.12GreviousWoundSurgeryWhiskey
+process 2: Get Verified Block AbrahamLincoln1809.02.12GreviousWoundSurgeryWhiskey
+process 1: Working...JoeDiMaggio1914.11.25SoreKneesRestFromSportsAspirin
+process 2: 	Duplicated: do not add AbrahamLincoln1809.02.12GreviousWoundSurgeryWhiskey
+process 1: 	Work done, answer = CKFMRTSB
+process 1: Sending New Verified BlockRecord 4930...
+process 0: Sending New Verified BlockRecord 4932...
+process 1: Get Verified Block JoeDiMaggio1914.11.25SoreKneesRestFromSportsAspirin
+process 1: 	Duplicated: do not add JoeDiMaggio1914.11.25SoreKneesRestFromSportsAspirin
+process 1: Sending New Verified BlockRecord 4931...
+process 0: Get Verified Block JoeDiMaggio1914.11.25SoreKneesRestFromSportsAspirin
+process 0: 	Duplicated: do not add JoeDiMaggio1914.11.25SoreKneesRestFromSportsAspirin
+process 0: write BlockchainLedger.json
+process 0: Send Verified BlockRecord JoeDiMaggio1914.11.25SoreKneesRestFromSportsAspirin
+process 2: Get Verified Block JoeDiMaggio1914.11.25SoreKneesRestFromSportsAspirin
+process 2: 	Duplicated: do not add JoeDiMaggio1914.11.25SoreKneesRestFromSportsAspirin
+process 1: Sending New Verified BlockRecord 4932...
+process 1: Get Verified Block JoeDiMaggio1914.11.25SoreKneesRestFromSportsAspirin
+process 1: 	Duplicated: do not add JoeDiMaggio1914.11.25SoreKneesRestFromSportsAspirin
+process 1: Send Verified BlockRecord JoeDiMaggio1914.11.25SoreKneesRestFromSportsAspirin
+process 2: Get Verified Block JoeDiMaggio1914.11.25SoreKneesRestFromSportsAspirin
+process 2: 	Duplicated: do not add JoeDiMaggio1914.11.25SoreKneesRestFromSportsAspirin
+process 1: Working...JohnKennedy1917.05.29AddisonsDiseaseDrugTherapySteroids
+process 1: 	Work done, answer = 22RNPXC5
+process 1: Sending New Verified BlockRecord 4930...
+process 1: Sending New Verified BlockRecord 4931...
+process 0: Get Verified Block JohnKennedy1917.05.29AddisonsDiseaseDrugTherapySteroids
+process 0: 	Duplicated: do not add JohnKennedy1917.05.29AddisonsDiseaseDrugTherapySteroids
+process 0: write BlockchainLedger.json
+process 1: Sending New Verified BlockRecord 4932...
+process 1: Get Verified Block JohnKennedy1917.05.29AddisonsDiseaseDrugTherapySteroids
+process 1: 	Duplicated: do not add JohnKennedy1917.05.29AddisonsDiseaseDrugTherapySteroids
+process 1: Send Verified BlockRecord JohnKennedy1917.05.29AddisonsDiseaseDrugTherapySteroids
+process 2: Get Verified Block JohnKennedy1917.05.29AddisonsDiseaseDrugTherapySteroids
+process 2: 	Duplicated: do not add JohnKennedy1917.05.29AddisonsDiseaseDrugTherapySteroids
